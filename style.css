@@ -72,7 +72,7 @@ p {
 
 .social-icon {
     display: inline-block;
-    margin-top: 20px; /* Adds space between the paragraph and the icon */
+    margin-top: 10px; /* Adds space between the paragraph and the icon */
 }
 
 .social-icon img {
@@ -81,6 +81,3 @@ p {
     transition: transform 0.3s ease;
 }
 
-.social-icon img:hover {
-    transform: scale(1.1); /* Slightly enlarge the icon on hover */
-}
