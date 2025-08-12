@@ -72,7 +72,7 @@ p {
 
 .social-icon {
     display: inline-block;
-    margin-top: 10px; /* Adds space between the paragraph and the icon */
+    margin-top: 5px; /* Adds space between the paragraph and the icon */
 }
 
 .social-icon img {
